@@ -5,3 +5,4 @@ void swap(int* a, int* b){
     *a = *b;
     *b = tmp;
 }
+//Function changes two values
